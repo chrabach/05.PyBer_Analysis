@@ -5,11 +5,18 @@
 The purpose of this analysis is to assist in the decision making process for a ride-sharing business.  Specifically in question is the allocation of resources amongst various city designations, such as Urban, Rural, and Suburban.
 
 
+
+## Resources
+- Data Source: city_data.csv
+                        ride_data.csv
+- Software : Python 3.8.9, Jupyter Notebook 6.1.4
+
+
 ## Results
 
 
 ![Fig1](analysis/Figure1.png)
-[Fig1: Ride Sharing Data](analysis/Figure1.png?raw=true “Figure 1: Ride Sharing Data”)
+[Figure1: Ride Sharing Data](analysis/Figure1.png?raw=true “Figure 1: Ride Sharing Data”)
 
 Figure 1 provides a first take overview of the data.  Total Number of rides per city tends to be higher in urban areas, followed by suburban, while rural cities tend to have the lowest number of rides per city.  Similarly, the tendency of the size of bubbles indicates that the highest driver counts are in the urban areas, followed by suburban, and last, rural.
 
