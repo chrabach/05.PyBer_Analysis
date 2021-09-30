@@ -75,7 +75,12 @@ The disparities in the city type data can be addressed in three ways.  The first
 Second, add resources such as marketing to the most prime areas for growth.  On the surface, it would seem the marginal benefit to increasing the rural category would provide the most incremental benefit.  However, it is likely that population constraints limit the size of the opportunity in rural markets.  More data should be analyzed to include area population.  A statistic such as rides per population capita would be valuable here.
 Third, increasing the quality of the rides, particularly in the suburban markets would drive the suburban line toward the urban in total fares collected.  This effort could be augmented by more data: in particular income demographics on the suburban and urban areas would allow targeted campaigns towards increasing the value of these rides.
 
+------
+**Contact:**
 
+**E-Mail:** chrabach@gmail.com
+
+**Twitter:** @chrabach
 
 
 
